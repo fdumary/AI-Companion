@@ -1,6 +1,6 @@
 # AI Companion
 
-Devin Toys Product Development Internship
+Devin Product Development Internship
 
 <img width="333" height="222" alt="medium (3)" src="https://github.com/user-attachments/assets/a7ed38e7-35ac-436c-82be-4544d314f66a" />
 
